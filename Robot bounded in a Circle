@@ -1,0 +1,6 @@
+On an infinite plane a Robot stands at (0,0) and faces North. The robot can receive one of the three instructions:
+1. G : go straight 1 unit:
+2. L : turn 90 degrees to the left;
+3. R : turmn 90 degrees to the right
+The robot performs the instructions given in order,and repeats them forever
+Return true only and only if there is a circlein the plane such that robot never leaves the circle.
